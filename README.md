@@ -1,6 +1,4 @@
-# stat436-hw2-shiny
-
-### Video Game Sales Data and Ratings Exploration
+# Video Game Sales Data and Ratings Exploration
 
 In this project, I created a Shiny application to visualize and explore video game sales data. The
 dataset includes information about game titles, platforms, release years, genres, and critic/user
